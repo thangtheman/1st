@@ -3,7 +3,7 @@
 <div id="blog" class="secondary-page">
   <?php  $page_name="Blog";  include 'header.php'; ?>
   <!-- header -->
-  
+
   <div class="page-content">
     <div class="container">
       <div class="row">
@@ -41,32 +41,32 @@
         <div class="col-sm-8">
           <h3>Recent Blogs</h3>
           <ul class="news-listings">
-            
+
             <li> <img src="images/blog-7.jpg" class="pull-left"/>
               <h4><a href="blog-7.php">90 Glorious years of Essel Group</a></h4>
               <p>It is a matter of immense pride for me to share with you that Essel Group has completed 90 Glorious Years this May 2016. A family firm, by the name of M/s Ram Gopal Inder Prashad, which was formed by my great grandfather Late Ram Gopal Ji in the year 1926, was reconstituted in a family separation... <a href="blog-7.php">Read More</a></p>
               <p class="text-muted">By DSC  on June 1, 2016</p>
             </li>
-            
-            
+
+
             <li> <img src="images/dsc-19.jpg" class="pull-left"/>
               <h4><a href="blog-6.php">Society Our True Mirror</a></h4>
-              <p>“A Dalit woman in a remote village in India…” This is how I started narrating a story in one of the DSC shows recently. A young man in the crowd immediately stopped me and asked, “Sir, why does your story start with Dalit woman and not just a woman. Why did you attach her caste to her identity?”... <a href="blog-6.php">Read More</a></p>
+              <p>“A Dalit woman in a remote village in India…” This is how I started narrating a story in one of the DSC shows recently. A young man in the crowd immediately stopped me and asked, “Sir, why does your story start with a Dalit woman and not just a woman. Why did you attach her caste to her identity?”...  <a href="blog-6.php">Read More</a></p>
               <p class="text-muted">By DSC  on May  26, 2016</p>
             </li>
             <li> <img src="images/blog-5-t.jpg" class="pull-left"/>
               <h4><a href="blog-5.php">Importance Of Communcation</a></h4>
-              <p>It is always a matter of immense pride and pleasure to share the moments of joy. Today, I want to share with you some good news for our Zee Family. I was privileged  to receive the CIF Chanchlani Global Indian Award 2016. The award is result of the perseverance and hard work of our ZEE family around the world. I am extremely blessed to... <a href="blog-5.php">Read More</a></p>
+              <p>It is always a matter of immense pride and pleasure to share moments of joy. Today, I want to share with you some good news for our Zee Family. I was privileged to receive the CIF Chanchlani Global Indian Award 2016. The award is result of the perseverance and hard work of our ZEE family around the world. I am extremely blessed to... <a href="blog-5.php">Read More</a></p>
               <p class="text-muted">By DSC  on May 7, 2016</p>
             </li>
             <li> <img src="images/dsc-8.jpg" class="pull-left"/>
               <h4><a href="blog-2.php">Secrets of successful entreprenuership decoded!</a></h4>
-              <p>I keep receiving a lot of questions from my followers on social media where they want to understand the secrets of being a successful entrepreneur. I had the opportunity to visit IIM Ahmedabad last year where students were keen to understand on how to become a successful entrepreneur & what are the points one should keep in mind when he/she starts his/her entrepreneurial journey... <a href="blog-2.php">Read More</a></p>
+              <p>I keep receiving a lot of questions from my followers on social media about the secrets of being a successful entrepreneur. I had the opportunity to visit IIM Ahmedabad last year where students wanted to understand how to become a successful entrepreneur and what to keep in mind when he/she starts his/her entrepreneurial journey...  <a href="blog-2.php">Read More</a></p>
               <p class="text-muted">By DSC  on May 7, 2016</p>
             </li>
             <li> <img src="images/dsc-7.jpg" class="pull-left"/>
               <h4><a href="blog-1.php">Recieving the CIF Chanchlani Global Indian Award 2016</a></h4>
-              <p>It is always a matter of immense pride and pleasure to share the moments of joy. Today, I want to share with you some good news for our Zee Family. I was privileged  to receive the CIF Chanchlani Global Indian Award 2016. The award is result of the perseverance and hard work of our ZEE family around the world... <a href="blog-1.php">Read More</a></p>
+              <p>It is always a matter of immense pride and pleasure to share moments of joy. Today, I want to share with you some good news for our Zee Family. I was privileged to receive the CIF Chanchlani Global Indian Award 2016. The award is result of the perseverance and hard work of our ZEE family around the world...  <a href="blog-1.php">Read More</a></p>
               <p class="text-muted">By DSC  on May 7, 2016</p>
             </li>
           </ul>
@@ -88,16 +88,16 @@
   </div>
   <?php include 'footer.php';?>
 </div>
-<!-- page --> 
+<!-- page -->
 
 <script>
 	  var slide=1;
       	$(document).ready(function(){
 			if($(window).width()>767){
-			changebanner();	
+			changebanner();
 			}
 		});
-		
+
 		function changebanner(){
 			if(slide<3){
 				slide=slide+1;
@@ -109,7 +109,7 @@
 			$(".highlight img, .highlight h3, .highlight p,.highlight a.button").fadeOut(250);
 			setTimeout(function(){
 				$(".highlight img").attr('src',"images/"+$(".featured-blogs .current img").attr("data-src"));
-				
+
 				$(".highlight h3").html($(".featured-blogs .current h4").html());
 				$(".highlight p.preview").html($(".featured-blogs .current p").html());
 				$(".highlight a").attr('href',$(".featured-blogs .current a").attr('href'));
@@ -117,7 +117,7 @@
 				$(".highlight img, .highlight h3, .highlight p,.highlight a.button").fadeIn(250);
 			},500);
 			//$(".highlight img").attr('src',"images/"+$(".featured-blogs .current img").attr("data-src"));
-			
+
 			setTimeout(function(){  changebanner(); },5000);
 		}
       </script>

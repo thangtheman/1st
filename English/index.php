@@ -30,10 +30,10 @@
               Charities</a></li>
           </ul>
         </div>
-        <!--/.navbar-collapse --> 
+        <!--/.navbar-collapse -->
       </div>
     </nav>
-    
+
     <!-- Modal -->
     <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
       <div class="modal-dialog " role="document">
@@ -54,12 +54,12 @@
     <div class="container">
       <div class="snippet">
         <h2>Leader, Philanthropist, Entrepreneur and Author</h2>
-        <p>DSC’s contribution to the upliftment of the nation’s socio-economic strata and to the nation’s liberalization journey, has been immense. His wisdom, determination, inspiration and most above his Pioneering Vision; empowers us all to see the path towards success and a better tomorrow! </p>
+        <p>Dr. Subhash Chandra, a respected global business leader, media mogul, author, speaker, and successful entrepreneur, built an empire from nothing. He has also been key in improving the Indian nation’s socio-economic strata and journey to liberalization. His wisdom, determination, inspiration and pioneering vision empowers us all to see the path towards success and a better tomorrow. </p>
         <button class="secondary" onClick="window.location.href='about-dsc.php'">Learn More</button>
         <button class="primary" onClick="window.location.href='events.php'">Meet DSC</button>
       </div>
-      <!-- snippet --> 
-      
+      <!-- snippet -->
+
     </div>
     <img src="images/dsc-hp.png" class="dsc"/>
     <div class="join-newsletter">
@@ -72,22 +72,22 @@
         </form>
       </div>
     </div>
-    <!-- join-newsletter --> 
+    <!-- join-newsletter -->
   </div>
-  
+
   <!-- header -->
-  
+
   <section class="promo">
     <div class="container">
       <div class="row">
         <div class="col-sm-4">
           <h3>Meet DSC</h3>
-          <p>Dr. Subhash Chandra, Chairman of the Essel Group of Companies is amongst the leading lights of the global media & entertainment industry. A self-made man, and a true visionary. Click the link below to check the next opportunity to meet him.</p>
+          <p>Dr. Subhash Chandra, Chairman of the Essel Group of companies, is among the top leaders of the global media and entertainment industry. He is truly a self-made man and visionary. Click the link below to find the next opportunity to meet him.</p>
           <a class="button secondary" href="events.php">Learn More</a> </div>
         <!-- col end -->
         <div class="col-sm-4">
           <h3>Events</h3>
-          <p>Frequently visit this page to see the upcoming events. <br/>
+          <p>Check back often so you don’t miss out on upcoming events! <br/>
             <br/>
             <br/>
             <br/>
@@ -97,14 +97,15 @@
         <!-- col end -->
         <div class="col-sm-4">
           <h3>Donate</h3>
-          <p>Dr. Subhash Chandra (DSC) is associated with many key projects and is working constantly towards the upliftment of the nation’s socio-economic strata. Join and support his initiatives and help bring a positive change in the country. Click the link below to learn more.</p>
+          <p>Dr. Subhash Chandra (DSC) is involved with many important projects that work towards improving India’s socio-economic strata. Join us in supporting these initiatives to help bring positive change to the country.
+            <br><br> </p>
           <a class="button secondary" href="charities.php">Learn More</a> </div>
-        <!-- col end --> 
+        <!-- col end -->
       </div>
     </div>
   </section>
   <!-- promo -->
-  
+
   <section id="community">
     <div class="wrapper">
       <h2>Community</h2>
@@ -115,7 +116,7 @@
     <div id="socialWall" class="social-wall">
       <div class="container">
         <div class="mr-space" id="mr-space_dsc-website" data-space-id="asia-tv/dsc-website" style="min-height: 500px;"></div>
-        <script>!function(a,b,c,d,e,f,g,h,i,j,k){h=a[d]=a[d]||{},h.ui=h.ui||[],i=a[e]=a[e]||{},i[f]||(j=b.getElementsByTagName(c)[0],k=b.createElement(c),k.src="//platform.massrelevance.com/js/massrel.js",j.parentNode.insertBefore(k,j),i[f]=function(){h.ui.push([].slice.call(arguments))}),i[f]("load",{el:b.getElementById(g)})}(window,document,"script","massrel","spredfast","exp","mr-space_dsc-website");</script> 
+        <script>!function(a,b,c,d,e,f,g,h,i,j,k){h=a[d]=a[d]||{},h.ui=h.ui||[],i=a[e]=a[e]||{},i[f]||(j=b.getElementsByTagName(c)[0],k=b.createElement(c),k.src="//platform.massrelevance.com/js/massrel.js",j.parentNode.insertBefore(k,j),i[f]=function(){h.ui.push([].slice.call(arguments))}),i[f]("load",{el:b.getElementById(g)})}(window,document,"script","massrel","spredfast","exp","mr-space_dsc-website");</script>
       </div>
     </div>
     <a class="social-wall-more"></a> </section>
@@ -129,16 +130,16 @@
               <div class="row">
                 <div class="col-sm-6 col-xs-6">
                   <div class="img-wrapper"><img src="images/interest-5.jpg"/></div>
-                  <a href="about-dsc.php#political" class="button secondary">Political<span>DSC maintains a keen interest in changing the core definition of politics to a public welfare division. As per him, the politicians should purely dedicate their... <u>Read More</u></span></a></div>
+                  <a href="about-dsc.php#political" class="button secondary">Political<span>No democratic country thrives without sound policy at its core. Dr. Subhash Chandra aims to influence the political landscape by steering it from a state of corruption... <u>Read More</u></span></a></div>
                 <div class="col-sm-6 col-xs-6">
                   <div class="img-wrapper"><img src="images/interest-1.jpg"/></div>
-                  <a href="about-dsc.php#entrepreneurial" class="button secondary">Entrepreneurial<span>DSC, being a self made man and a true visionary, consistently demonstrated his ability to identify new businesses and lead them to the... <u>Read More</u></span></a> </div>
+                  <a href="about-dsc.php#entrepreneurial" class="button secondary">Entrepreneurial<span>Dr. Subhash has developed several businesses that have a positive influence on society, and through building a successful empire, he is skilled and ready for what’s needed next…... <u>Read More</u></span></a> </div>
               </div>
               <div class="row">
-                <div class="col-sm-6 col-xs-6"> <a href="about-dsc.php#social" class="button secondary">Social<span>DSC has made his mark as an influential philanthropist in India. He has set up TALEEM (Transnational Alternate Learning for Emancipation and Empowerment... <u>Read More</u> </span></a>
+                <div class="col-sm-6 col-xs-6"> <a href="about-dsc.php#social" class="button secondary">Social<span>Dr. Subhash Chandra constantly devotes his time and energy on causes and initiatives he is passionate about ranging from rural education to  promoting a healthy body, mind & spirit... <u>Read More</u> </span></a>
                   <div class="img-wrapper"><img src="images/interest-4.jpg"/></div>
                 </div>
-                <div class="col-sm-6 col-xs-6"> <a href="about-dsc.php#economy" class="button secondary">Economy<span>DSC is constantly working on documenting India’s economic development pre and post independence to generate awareness and a stark differentiation... <u>Read More</u></span></a>
+                <div class="col-sm-6 col-xs-6"> <a href="about-dsc.php#economy" class="button secondary">Economy<span>To illuminate the good and bad, Dr. Chandra is working on documenting India’s economic development pre and post independence as well as show a way to move forward.... <u>Read More</u></span></a>
                   <div class="img-wrapper"><img src="images/interest-2.jpg"/></div>
                 </div>
               </div>
@@ -146,40 +147,40 @@
             <!-- Slide 1-->
             <div class="slide-2">
               <div class="row">
-                <div class="col-sm-6 col-xs-6"> <a href="about-dsc.php#community" class="button secondary">Community<span>DSC proudly represents the Vaishya community of Aggarwals. The origin of this community goes back to a place called as Agroha, where it is believed... <u>Read More</u></span></a>
+                <div class="col-sm-6 col-xs-6"> <a href="about-dsc.php#community" class="button secondary">Community<span>Dr. Chandra comes from the Vaishya community. Aggarwals are part of a larger Vaishya community. Argoha is where it is believed that the Goddess Laxmi gave Maharaj Agrarsain blessings... <u>Read More</u></span></a>
                   <div class="img-wrapper"><img src="images/interest-10.jpg"/></div>
                 </div>
-                <div class="col-sm-6 col-xs-6"> <a href="about-dsc.php#media" class="button secondary">Media<span>DSC is rightly known a Media Moghul, with his pioneering efforts in launching the country’s first private satellite television channel - Zee TV, followed... <u>Read More</u></span></a>
+                <div class="col-sm-6 col-xs-6"> <a href="about-dsc.php#media" class="button secondary">Media<span>Being part of a premier media house revealed to Dr. Chandra how we are not always presenting the truth through the media and are following populist beliefs of sensationalizing, following pseudo secularist ideas, and forgetting what people really need... <u>Read More</u></span></a>
                   <div class="img-wrapper"><img src="images/interest-3.jpg"/></div>
                 </div>
               </div>
               <div class="row">
                 <div class="col-sm-6 col-xs-6">
                   <div class="img-wrapper"><img src="images/interest-8.jpg"/></div>
-                  <a href="about-dsc.php#family" class="button secondary">Family<span>DSC is a Family man and makes it a point to spend as much time as he can with his loved ones. Most above, he consistently works towards the betterment of his home... <u>Read More</u></span></a> </div>
+                  <a href="about-dsc.php#family" class="button secondary">Family<span> Family is so important to Dr. Chandra.  But family extends beyond blood. He wants to do whatever he can to help his own family, his extended family, his hometown Hissar, and his home state of Haryana... <u>Read More</u></span></a> </div>
                 <div class="col-sm-6 col-xs-6">
                   <div class="img-wrapper"><img src="images/interest-6.jpg"/></div>
-                  <a href="about-dsc.php#philanthropy" class="button secondary">Philanthrophy<span>DSC and his entire family have always practiced towards donating 10% of their profit towards an integrated DSC Foundation, which in turn works towards the... <u>Read More</u></span></a> </div>
+                  <a href="about-dsc.php#philanthropy" class="button secondary">Philanthrophy<span>Dr. Subhash Chandra and his family have been donating10% of their family profit to worthy causes and transferring... <u>Read More</u></span></a> </div>
               </div>
             </div>
             <!-- Slide 2-->
             <div class="slide-3">
               <div class="row">
-                <div class="col-sm-6 col-xs-6"> <a href="about-dsc.php#motivator" class="button secondary">Motivator<span>DSC continues to motivate the youth of India, by sharing his experience, knowledge and wisdom through his popular show titled as DSC Show. With this show... <u>Read More</u></span></a>
+                <div class="col-sm-6 col-xs-6"> <a href="about-dsc.php#motivator" class="button secondary">Motivator<span>Through exposing himself to criticism and becoming a subject matter to be ridiculed, he continues to motivate youth & entrepreneurs of Indian origin through his TV show. He even personally... <u>Read More</u></span></a>
                   <div class="img-wrapper"><img src="images/interest-7.jpg"/></div>
                 </div>
               </div>
               <div class="row">
-                <div class="col-sm-6 col-xs-6"> <a href="about-dsc.php#cultural" class="button secondary">Cultural<span>DSC practices Vipassana as per the teaching of Buddha, which keeps him calm and focused. He has built world’s largest pagoda in the suburbs of Mumbai... <u>Read More</u></span></a>
+                <div class="col-sm-6 col-xs-6"> <a href="about-dsc.php#cultural" class="button secondary">Cultural<span>Dr. Chandra practices Vipassana mindfulness and meditation, which keeps him calm and collected and enhances his decision-making abilities... <u>Read More</u></span></a>
                   <div class="img-wrapper"><img src="images/interest-9.jpg"/></div>
                 </div>
               </div>
             </div>
-            <!-- Slide 3--> 
+            <!-- Slide 3-->
           </div>
-          <!-- Slider Wrapper--> 
+          <!-- Slider Wrapper-->
         </div>
-        <!-- Slider --> 
+        <!-- Slider -->
       </div>
     </div>
   </section>
@@ -264,7 +265,7 @@
                 </div>
               </div>
             </li>
-            
+
             <li>
               <div class="row">
                 <div class="col-md-2 col-sm-3  col-xs-3"><img src="images/news-1.jpg"/></div>
@@ -283,14 +284,14 @@
                 </div>
               </div>
             </li>
-            
+
           </ul>
         </div>
       </div>
     </div>
   </section>
   <?php include 'footer.php';?>
-  <script src="js/jquery.countdown.min.js"></script> 
+  <script src="js/jquery.countdown.min.js"></script>
   <script type="text/javascript">
     //Countdown date & Time For next event
    	 $('#getting-started').countdown('2016/06/30', function(event) {
@@ -301,7 +302,7 @@
 	if($(window).width()>767){
 		$(".promo .row div").css('height',$(".promo").height());
 	}
-  </script> 
+  </script>
 </div>
 <!-- page -->
 </body>

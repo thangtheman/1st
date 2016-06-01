@@ -3,7 +3,7 @@
 <div id="blog" class="secondary-page">
   <?php  $page_name="Blog";  include 'header.php'; ?>
   <!-- header -->
-  
+
   <div class="page-content article">
     <div class="container">
       <div class="row">
@@ -19,14 +19,15 @@
           </div>
           <hr/>
           <img src="images/a3.png" class="pull-right" width="300">
-          <p>I keep receiving a lot of questions from my followers on social media where they want to understand the secrets of being a successful entrepreneur. I had the opportunity to visit IIM Ahmedabad last year where students were keen to understand on how to become a successful entrepreneur & what are the points one should keep in mind when he/she starts his/her entrepreneurial journey. </p>
+          <p>I keep receiving a lot of questions from my followers on social media who want to understand the secrets of being a successful entrepreneur. I had the opportunity to visit IIM Ahmedabad last year where students wanted to understand how to become a successful entrepreneur and what are the points one should keep in mind when he/she starts his/her entrepreneurial journey.  </p>
           <ol>
-          <li>Who do you think is entrepreneur? - Entrepreneurship does not mean a proprietorship or being only a businessman. According to me, a person who finds an opportunity in a problem/issue is a true entrepreneur. He/She can not only solve the problem, but take it forward and give a positive spin to it. </li>
-          <li>Take a look at any industry or market today. There is always 1 person who starts it, and other follow creating a large and competitive market. How do you differentiate yourself from your competitors? The key is to keep innovating. Whether it’s about your product or services or even your attitude towards working. Innovation and the ability to understand and see change is going to help you a lot in your entrepreneurial journey. In today’s world, Innovation and your soft skills will help you stand out of the crowd.</li>
-          <li>Is it fine to bend the rules to be a successful entreprenuer? I don’t think it’s fine to bend the rules, specially in today’s world. I feel the times of bending the rules have gone for entrepreneurs as today’s govt. and markets have specialized rules for entrepreneurs making it more convenient and safe for them to start a new business. The start-up culture as what we call it nowadays is a proof that a lot of young & talented individuals are entering the market with their unique idea and product. Not only they are helped in terms of taxation and permissions, but a lot of conventions today help new companies find their rhythm in the market. </li>
-          <li>Do you think MBA is a neccessity to become a succesful entreprenuer? I don’t think so. MBA can help you gain and acquire knowledge. Which is only 1 part of your journey towards a successful entrepreneurship. Your studies, experience, etc will help you gain knowledge. What matters more is your talent. Your talent to understand your challenges and how you can see an opportunity in it will largely help you grow in your journey. </li>
+          <li>What do you think an entrepreneur is? Entrepreneurship does not mean a proprietorship or being only a businessman. According to me, a person who finds an opportunity in a problem or issue is a true entrepreneur. He or she cannot only solve the problem, but make progress and give a positive spin to it.  </li>
+          <li>Take a look at any industry or market today. There is always one person who starts it, and others follow creating a large and competitive market. How do you differentiate yourself from your competitors? The key is to keep innovating. Whether it’s about your product or services or even your attitude towards working. Innovation and the ability to understand and see change is going to help you a lot in your entrepreneurial journey. In today’s world, innovation and your soft skills will help you stand out from the crowd.</li>
+          <li>Is it fine to bend the rules to be a successful entrepreneur? I don’t think it’s okay to bend the rules, especially in today’s world. I feel the times of bending the rules are gone for entrepreneurs as today’s govt. and markets have specialized rules for entrepreneurs making it more convenient and safe for them to start a new business. The start-up culture as we call it nowadays is proof that a lot of young and talented individuals are entering the market with their unique ideas and products. Not only they are helped in terms of taxation and permissions, but also a lot of conventions today help new companies find their rhythm in the market.  </li>
+          <li>Do you think getting an MBA (Masters of Business Administration) is a necessity to become a successful entrepreneur? I don’t think so. An MBA can help you gain knowledge; which is only 1 part of your journey towards a successful entrepreneurial endeavor. Your studies and experience will help you gain knowledge too. What matters more is your talent. Your talent to understand your challenges and how you can see opportunity in them will largely help you grow in your journey.
+          </li>
           </ol>
-          <p>Lastly, would like to thank all my readers & followers for their heart-warming messages on social media. If you have any questions that I can help you solve, then feel free to write them down in the comments sections here. You can also mail me at <a href="mailto:dsc@zeemedia.esselgroup.com">dsc@zeemedia.esselgroup.com</a> </p> <hr/>
+          <p>Lastly, would like to thank all my readers and followers for their heart-warming messages on social media. If you have any questions that I can help you solve,  feel free to write them in the comments section here. You can also email me at <a href="mailto:dsc@zeemedia.esselgroup.com">dsc@zeemedia.esselgroup.com</a> </p> <hr/>
       <div class="socialmedia-sharing">
           	<p>Share This: </p>
             <span class='st_facebook_large' displayText='Facebook'></span>
@@ -40,10 +41,10 @@
       </div>
     </div>
   </div>
-  
+
   <?php include 'footer.php';?>
 </div>
-<!-- page --> 
+<!-- page -->
 
 </body>
 </html>
